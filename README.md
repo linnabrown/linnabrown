@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://linnabrown.github.io)
 [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=thTEg3IAAAAJ&hl=en)
 <br>
-[![](https://img.shields.io/twitter/follow/yuliangxiu?style=social)](https://twitter.com/intent/follow?screen_name=LeHuang9)
+[![](https://img.shields.io/twitter/follow/LeHuang9?style=social)](https://twitter.com/intent/follow?screen_name=LeHuang9)
 
 - 🔭 I am currently a 2nd-Year Computional Biology Ph.D. student, working at Universit of North Carolina at Chapel Hill for Data science in human genetics. 
 
