@@ -8,7 +8,7 @@
 
 - 🌱 My research interests span the fields of **human genetics**, especially in **genetic variants and Hi-C analysis** (i.e., sequencing enhancement, loop calling) and **metagenomics** (i.e. CAZyme profiling, database and server developing). 
 
-- 👯 Seeking for collaboration in such fields, feel free to reach out to me via <a href="mailto:lehuang@unc.edu?subject=intention of cooperation from [name]-[title]-[institute]">Email</a>
+- 👯 Seeking for collaboration in such fields。 Feel free to reach out to me via <a href="mailto:lehuang@unc.edu?subject=intention of cooperation from [name]-[title]-[institute]">Email</a>
 
 
 
