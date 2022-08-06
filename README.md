@@ -4,7 +4,7 @@
 <br>
 [![](https://img.shields.io/twitter/follow/LeHuang9?style=social)](https://twitter.com/intent/follow?screen_name=LeHuang9)
 
-- 🔭 I am currently a 2nd-Year Computional Biology Ph.D. student, working at University of North Carolina at Chapel Hill for Data science in human genetics. 
+- 🔭 I am currently a 3rd-Year Computional Biology Ph.D. student, working at University of North Carolina at Chapel Hill for Data science in human genetics. 
 
 - 🌱 My research interests span the fields of **human genetics**, especially in **genetic variants and Hi-C analysis** (i.e., sequencing enhancement, loop calling) and **metagenomics** (i.e. CAZyme profiling, database and server developing). 
 
