@@ -6,7 +6,7 @@
 
 - 🔭 I am currently a 3rd-Year Computional Biology Ph.D. student, working at University of North Carolina at Chapel Hill for Data science in human genetics. 
 
-- 🌱 My research interests span the fields of **human genetics**, especially in **genetic variants and Hi-C analysis** (i.e., sequencing enhancement, loop calling) and **metagenomics** (i.e. CAZyme profiling, database and server developing). 
+- 🌱 My research interests span the fields of **human genetics**, especially in **genetic variants (GWAS) and Hi-C analysis** (i.e., sequencing enhancement, loop calling) and **metagenomics** (i.e. CAZyme profiling, database and server developing). 
 
 - 👯 Seeking for collaboration in such fields. Feel free to reach out to me via <a href="mailto:lehuang@unc.edu?subject=intention of cooperation from [name]-[title]-[institute]">Email</a>
 
