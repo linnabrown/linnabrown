@@ -3,7 +3,8 @@
 [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=thTEg3IAAAAJ&hl=en)
 <br>
 [![](https://img.shields.io/twitter/follow/LeHuang9?style=social)](https://twitter.com/intent/follow?screen_name=LeHuang9)
-
+- 💼 Open to job market. Feel free to contact me with any opportunities (Bioinformatician, data scientist, Machine Learning Engineer, Research Scientist).
+- 
 - 🔭 I am currently a 4th-Year Computational Biology Ph.D. student, working at the University of North Carolina at Chapel Hill for Data science in human genetics. 
 
 - 🌱 My research interests span the fields of **human genetics**, especially in **genetic variants (GWAS) and Hi-C analysis** (i.e., sequencing enhancement, loop calling) and **metagenomics** (i.e. CAZyme profiling, database and server developing). 
