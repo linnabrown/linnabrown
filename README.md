@@ -3,6 +3,11 @@
 [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=thTEg3IAAAAJ&hl=en)
 <br>
 [![](https://img.shields.io/twitter/follow/LeHuang9?style=social)](https://twitter.com/intent/follow?screen_name=LeHuang9)
+
+![Le Huang's GitHub stats](https://github-readme-stats.vercel.app/api?username=linnabrown&show_icons=true&theme=radical)
+
+
+
 - 💼 Open to job market. Feel free to contact me (lehuang@unc.edu) with any opportunities (Bioinformatician, data scientist, Machine Learning Engineer, Research Scientist).
 
 - 🔭 I am currently a 4th-Year Computational Biology Ph.D. student, working at the University of North Carolina at Chapel Hill for Data science in human genetics. 
