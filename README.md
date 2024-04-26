@@ -8,9 +8,7 @@
 
 
 
-- 💼 Open to job market. Feel free to contact me (lehuang@unc.edu) with any opportunities (Bioinformatician, data scientist, Machine Learning Engineer, Research Scientist).
-
-- 🔭 I am currently a 4th-Year Computational Biology Ph.D. student, working at the University of North Carolina at Chapel Hill for Data science in human genetics. 
+- 🔭 I am currently a AI scientist, working at xxx for large language model in biomedical image data. 
 
 - 🌱 My research interests span the fields of **human genetics**, especially in **genetic variants (GWAS) and Hi-C analysis** (i.e., sequencing enhancement, loop calling) and **metagenomics** (i.e. CAZyme profiling, database and server developing). 
 
