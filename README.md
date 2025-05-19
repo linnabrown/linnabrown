@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I am currently a AI scientist, working at GE HealthCare.. 
+- 🔭 I am currently an AI scientist, working at GE HealthCare.. 
 
 - 🌱 My research interests span the fields of **human human**, especially in **Vision Large Language Model in EHR and Biomdical Image data **, **genetic variants (GWAS) and Hi-C analysis** (i.e., sequencing enhancement, loop calling) and **metagenomics** (i.e. CAZyme profiling, database and server developing). 
 
