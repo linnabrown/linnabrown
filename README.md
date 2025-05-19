@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I am currently a AI scientist, working at xxx for large language model in biomedical image data. 
+- 🔭 I am currently a AI scientist, working at GE HealthCare.. 
 
-- 🌱 My research interests span the fields of **human genetics**, especially in **genetic variants (GWAS) and Hi-C analysis** (i.e., sequencing enhancement, loop calling) and **metagenomics** (i.e. CAZyme profiling, database and server developing). 
+- 🌱 My research interests span the fields of **human human**, especially in **Vision Large Language Model in EHR and Biomdical Image data **, **genetic variants (GWAS) and Hi-C analysis** (i.e., sequencing enhancement, loop calling) and **metagenomics** (i.e. CAZyme profiling, database and server developing). 
 
 - 👯 Seeking for collaboration in such fields. Feel free to reach out to me via <a href="mailto:lehuang@unc.edu?subject=intention of cooperation from [name]-[title]-[institute]">Email</a>
 
